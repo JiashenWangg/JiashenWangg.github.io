@@ -56,6 +56,21 @@ ninja.data = [{
           description: "Combines statistical modeling and machine learning to enable proactive workforce planning and operational optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-e-commerce-database-and-dashboard-design",
+          title: 'E-Commerce Database and Dashboard Design',
+          description: "This project delivers a scalable system for monitoring business performance and generating actionable insights for the admin team.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-stylometric-profiling-and-speaker-classification-in-formula-1-press-conferences",
+          title: 'Stylometric Profiling and Speaker Classification in Formula 1 Press Conferences',
+          description: "Investigates how Formula 1 drivers differ in communication style and whether language alone can reliably identify individual speakers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-loan-default-classification-sba-loans",
+          title: 'Loan Default Classification (SBA Loans)',
+          description: "A predictive modeling framework for U.S. Small Business Administration (SBA) loans to identify default risk at origination",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
