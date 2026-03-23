@@ -22,7 +22,6 @@ cv:
     Education:
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
-        url: https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html
         area: Applied Data Science
         studyType: Master of Science
         start_date: 2025.08
@@ -32,7 +31,6 @@ cv:
 
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
-        url: https://www.cmu.edu/dietrich/statistics-datascience/about/index.html
         area: Statistics and Machine Learning
         studyType: Bachelor of Science
         start_date: 2022.08
@@ -42,28 +40,24 @@ cv:
 
     Experience:
       - company: Alibaba
-        url: https://www.alibabagroup.com/en-US/
         position: Data Scientist Intern
         location: Beijing, China
         start_date: 2025.05
         end_date: 2025.08
 
       - company: Carnegie Mellon University, Statistics & Data Science
-        url: https://www.cmu.edu/dietrich/statistics-datascience/about/index.html
         position: Teaching Assistant
         location: Pittsburgh, PA
         start_date: 2025.08
         end_date: PRESENT
 
       - company: CMU Student Academic Success Center
-        url: https://www.cmu.edu/student-success/
         position: Supplemental Instruction Leader
         location: Pittsburgh, PA
         start_date: 2023.08
         end_date: 2024.08
 
       - company: Fosafer Information Technology Co.
-        url: https://www.fosafer.com/
         position: Data Scientist Intern
         location: Beijing, China
         start_date: 2023.05
@@ -94,6 +88,9 @@ cv:
         summary: Built PostgreSQL database and R Shiny dashboard to analyze e-commerce sales and improve ad efficiency.
         start_date: 2024.12
         end_date: 2025.05
+
+      - name: Equine Cardiac Arrhythmia Detection
+        summary: Processed 500k+ ECG signals and built models for arrhythmia detection using signal features, clustering, and PCA.
 
       - name: Commodity Time Series Modeling
         summary: Modeled 60+ years of tea prices using VAR to identify cross-market dependencies and inform trading strategies.
