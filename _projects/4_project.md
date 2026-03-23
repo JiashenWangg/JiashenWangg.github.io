@@ -13,7 +13,7 @@ This project investigates linguistic patterns in official FIA Formula 1 press-co
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f1_conference.jpg" title="Press Conference" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/f1_conference.jpg" title="Press Conference" class="img-fluid rounded z-depth-1" style="height:200px;"%}
     </div>
 </div>
 <div class="caption">

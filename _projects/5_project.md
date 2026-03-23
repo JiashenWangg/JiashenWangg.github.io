@@ -48,10 +48,10 @@ Model evaluation prioritizes recall for the default class (CHGOFF), alongside pr
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/loan_rocauc.png" title="ROC-AUC Curve" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/loan_rocauc.png" title="ROC-AUC Curve" class="img-fluid rounded z-depth-1" style="height:250px;" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/loan_confusion.png" title="Confusion Matrix" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/loan_confusion.png" title="Confusion Matrix" class="img-fluid rounded z-depth-1" style="height:250px;" %}
     </div>
 </div>
 <div class="caption">
