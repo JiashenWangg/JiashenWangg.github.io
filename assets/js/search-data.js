@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-repositories",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of my projects",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-repositories",
           title: "repositories",
           description: "Following are my project repositories",
           section: "Navigation",
@@ -39,26 +46,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-horse",
-          title: 'Horse',
-          description: "short description",
+          section: "News",},{id: "projects-detecting-horse-cardiac-arrhythmia-with-ecg-data",
+          title: 'Detecting Horse Cardiac Arrhythmia with ECG Data',
+          description: "The study focuses on developing methods to detect cardiac arrhythmia in horses using ECG data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-lucas-systems",
-          title: 'Lucas Systems',
-          description: "Short description",
+            },},{id: "projects-warehouse-work-queue-time-prediction",
+          title: 'Warehouse Work Queue Time Prediction',
+          description: "Combines statistical modeling and machine learning to enable proactive workforce planning and operational optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
