@@ -25,85 +25,57 @@ cv:
         url: https://www.cmu.edu
         area: Applied Data Science
         studyType: Master of Science
-        start_date: 2025
-        end_date: 2026
+        start_date: 2025.08
+        end_date: 2026.05
         score: "3.83/4.0"
         courses: ""
-        highlights:
-          - Description 1.
 
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
         area: Statistics and Machine Learning
         studyType: Bachelor of Science
-        start_date: 2022
-        end_date: 2024
+        start_date: 2022.08
+        end_date: 2024.05
         score: "3.86/4.0"
         courses: ""
-        highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
-      - company: Lucas Systems, in collaboration with CMU
-        position: Data Scientist
-        location: Pittsburgh, PA
-        start_date: 2026.1
-        end_date: 
-        summary: 
-        highlights:
-          - Description 1.
-
       - company: Alibaba
         position: Data Scientist Intern
         location: Beijing, China
-        start_date: 2025.5
-        end_date: 2025.8
-        summary: 
+        start_date: 2025.05
+        end_date: 2025.08
+        summary: PRESENT
         highlights:
           - Description 1.
 
       - company: Carnegie Mellon University
         position: Teaching Assistant
         location: Pittsburgh, PA
-        start_date: 2025.8
-        end_date: 
+        start_date: 2025.08
+        end_date: PRESENT
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: CMU Department of Statistics & Data Science
-        position: Data Science Consultant, Student Researcher
-        location: Pittsburgh, PA
-        start_date: 2024.1
-        end_date: 2024.10
-
       - company: CMU Student Academic Success Center
-        position: Supplemental Instruction Leader, Multivariate Analysis
+        position: Supplemental Instruction Leader
         location: Pittsburgh, PA
-        start_date: 2023.8
-        end_date: 2024.8
+        start_date: 2023.08
+        end_date: 2024.08
 
       - company: Fosafer Information Technology Co.
         position: Data Scientist Intern
         location: Beijing, China
-        start_date: 2023.5
-        end_date: 2023.8
+        start_date: 2023.05
+        end_date: 2023.08
 
     Projects:
-      - name: Quantum Computing
+      - name: 
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    Skills:
-      - name: Data Science
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Python, R, SQL, Machine Learning, Data Visualization, Statistical Analysis, Predictive Modeling, Statistical Programming"
+        start_date: 2026.01
+        end_date: PRESENT
 
     Languages:
       - name: Chinese
