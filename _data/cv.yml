@@ -71,11 +71,35 @@ cv:
         end_date: 2023.08
 
     Projects:
-      - name: 
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
+      - name: Lucas Systems Warehouse Planning
+        summary: Built ML models to predict warehouse task times, providing end-to-end solution for operational decision-making.
         start_date: 2026.01
         end_date: PRESENT
+
+      - name: Distributed Flight Delay Prediction (Spark)
+        summary: Developed cloud-based PySpark models on Azure to predict flight delays using distributed processing on 10M+ records.
+        start_date: 2026.02
+        end_date: 2026.03
+
+      - name: SBA Loan Default Risk Classification
+        summary: Built predictive models on 900K loans achieving 93% accuracy, identifying key credit risk drivers using ML methods.
+        start_date: 2025.12
+        end_date: 2026.01
+
+      - name: F1 Driver Speech NLP
+        summary: Scraped and analyzed 1M+ tokens using NLP, clustering, and classification to uncover linguistic patterns and predictive insights in Formula 1.
+        start_date: 2025.11
+        end_date: 2025.12
+      
+      - name: Amazon Retail Store Database & Dashboard
+        summary: Built PostgreSQL database and R Shiny dashboard to analyze e-commerce sales and improve ad efficiency.
+        start_date: 2024.12
+        end_date: 2025.05
+
+      - name: Commodity Time Series Modeling
+        summary: Modeled 60+ years of tea prices using VAR to identify cross-market dependencies and inform trading strategies.
+        start_date: 2024.03
+        end_date: 2024.05
 
     Languages:
       - name: Chinese
