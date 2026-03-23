@@ -47,10 +47,10 @@ Feature engineering focuses on economically meaningful transformations. The fina
 Model evaluation prioritizes recall for the default class (CHGOFF), alongside precision, F1-score, and ROC-AUC, reflecting the asymmetric cost structure of credit risk decisions. Among all models, XGBoost delivers the strongest performance. Compared to baseline models, XGBoost significantly reduces false negatives, directly addressing the primary business objective of minimizing missed defaults while maintaining strong overall discrimination.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/loan_rocauc.png" title="ROC-AUC Curve" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/loan_confusion.png" title="Confusion Matrix" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
