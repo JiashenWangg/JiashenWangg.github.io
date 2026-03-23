@@ -27,10 +27,12 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a graduate student in Applied Data Science at Carnegie Mellon University, with an undergraduate degree in Statistics and Machine Learning. I’m interested in using data to understand complex systems and support real-world decision-making, especially in areas where quantitative methods can create measurable impact.
+I’m a graduate student in Applied Data Science at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>, with an undergraduate degree in Statistics and Machine Learning. I’m interested in using data to understand complex systems and support real-world decision-making, especially in areas where quantitative methods can create measurable impact.
 
-I previously worked as a Data Scientist Intern at Alibaba, where I analyzed large-scale user and transaction data, designed experiments, and built data pipelines to support product and business decisions. 
+I previously worked as a Data Scientist Intern at <a href='https://www.alibabagroup.com/en-US/>'Alibaba</a>, where I analyzed large-scale user and transaction data, designed experiments, and built data pipelines to support product and business decisions. 
 
-Recently, I’ve been working on a capstone project with Lucas Systems, applying machine learning to optimize warehouse operations. I’ve also worked on a horse ECG project modeling cardiac signals for arrhythmia detection, and an NLP project analyzing Formula 1 driver speech to extract predictive insights. These experiences have helped me build strong end-to-end skills, from data collection and modeling to communicating results.
+Recently, I’ve been working on a capstone project with <a href = 'https://www.lucasware.com/'>Lucas Systems</a>, applying machine learning to optimize warehouse operations. 
+
+I’ve also worked on a horse ECG project modeling cardiac signals for arrhythmia detection, and an NLP project analyzing Formula 1 driver speech to extract predictive insights. These experiences have helped me build strong end-to-end skills, from data collection and modeling to communicating results.
 
 I’m passionate about working with data, especially on challenging, high-dimensional problems in areas like technology, finance, and quantitative research. Outside of work, I enjoy following sports, traveling, cooking, and exploring new ideas at the intersection of data, markets, and real-world systems.
