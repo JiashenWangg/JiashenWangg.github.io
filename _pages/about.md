@@ -29,10 +29,10 @@ social: true # includes social icons at the bottom of the page
 
 I’m a graduate student in Applied Data Science at [Carnegie Mellon University](https://www.cmu.edu/), with an undergraduate degree in Statistics and Machine Learning. I’m interested in using data to understand complex systems and support real-world decision-making, especially in areas where quantitative methods can create measurable impact.
 
+Currently, I'm working on a capstone project with [Lucas Systems](https://www.lucasware.com/), applying machine learning to optimize warehouse operations. 
+
 I previously worked as a Data Scientist Intern at [Alibaba](https://www.alibabagroup.com/en-US/), where I analyzed large-scale user and transaction data, designed experiments, and built data pipelines to support product and business decisions. 
 
 My undergraduate capstone project focuses on a horse ECG project modeling cardiac signals for arrhythmia detection, in collaboration with [Dr. Katharyn Mitchell](https://equine.cornell.edu/people/katharyn-mitchell) from [Cornell University College of Veterinary Science](https://www.vet.cornell.edu/), under the guidance of [Dr. Ron Yurko](https://www.stat.cmu.edu/~ryurko/).
-
-Currently, I'm working on a capstone project with [Lucas Systems](https://www.lucasware.com/), applying machine learning to optimize warehouse operations. 
 
 I’m passionate about working with data, especially on challenging, high-dimensional problems in areas like technology, finance, and quantitative research. Outside of work, I enjoy following sports, traveling, cooking, and exploring new ideas at the intersection of data, markets, and real-world systems.
