@@ -4,7 +4,7 @@ title: Warehouse Work Queue Time Prediction
 description: Combines statistical modeling and machine learning to enable proactive workforce planning and operational optimization
 img: 
 importance: 2
-category: capstone
+category: data science
 ---
 
 ## Project Overview
