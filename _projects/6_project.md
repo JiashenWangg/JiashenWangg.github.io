@@ -4,7 +4,7 @@ title: NYC Crime Visual Analytics
 description: Visualizing and exploring crime patterns in New York City from 2018 to 2021
 img: 
 importance: 6
-category: visualization and analytics
+category: Visualization and Analytics
 ---
 
 ## Project Overview

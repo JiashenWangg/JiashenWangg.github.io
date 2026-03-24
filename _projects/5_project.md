@@ -5,7 +5,7 @@ description: A predictive modeling framework for U.S. Small Business Administrat
 
 img: 
 importance: 3
-category: data science
+category: Data Science
 ---
 ## Project Overview
 

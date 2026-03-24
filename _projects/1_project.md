@@ -4,7 +4,7 @@ title: Detecting Horse Cardiac Arrhythmia with ECG Data
 description: The study focuses on developing methods to detect cardiac arrhythmia in horses using ECG data.
 img: 
 importance: 1
-category: data science
+category: Data Science
 related_publications: false
 ---
 

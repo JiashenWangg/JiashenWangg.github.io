@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Stylometric Profiling and Speaker Classification in Formula 1 Press Conferences
+title: Text Analysis: Formula 1 Press Conferences NLP
 description: Investigates how Formula 1 drivers differ in communication style and whether language alone can reliably identify individual speakers
 
 img: 
 importance: 5
-category: data science
+category: Data Science
 ---
 ## Project Overview
 

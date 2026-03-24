@@ -5,7 +5,7 @@ description: This project delivers a scalable system for monitoring business per
 
 img: 
 importance: 4
-category: visualization and analytics
+category: Visualization and Analytics
 ---
 
 ## Project Overview
