@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text Analysis: Formula 1 Press Conferences NLP
+title: Formula 1 Press Conferences NLP
 description: Investigates how Formula 1 drivers differ in communication style and whether language alone can reliably identify individual speakers
 
 img: 
