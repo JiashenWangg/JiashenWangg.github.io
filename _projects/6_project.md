@@ -11,6 +11,8 @@ category: visualization and analytics
 
 This project focuses on visualizing and exploring crime patterns in New York City from 2018 to 2021 using large-scale NYPD data. The goal is to transform complex, high-volume data into intuitive visual insights that reveal spatial distribution, temporal trends, and demographic patterns, with particular attention to changes during the COVID-19 period.
 
+The complete analysis, including methodology and visual outputs, is documented in the full report available [here](https://www.stat.cmu.edu/capstoneresearch/spring2023/315files_s23/team15.html)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nyc_map.png" title="Crime Density Map" class="img-fluid rounded z-depth-1" style="height:200px;"%}
