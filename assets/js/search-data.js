@@ -71,6 +71,11 @@ ninja.data = [{
           description: "A predictive modeling framework for U.S. Small Business Administration (SBA) loans to identify default risk at origination",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-nyc-crime-visual-analytics",
+          title: 'NYC Crime Visual Analytics',
+          description: "Visualizing and exploring crime patterns in New York City from 2018 to 2021",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
