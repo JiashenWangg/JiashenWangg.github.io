@@ -61,9 +61,9 @@ ninja.data = [{
           description: "This project delivers a scalable system for monitoring business performance and generating actionable insights for the admin team.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-stylometric-profiling-and-speaker-classification-in-formula-1-press-conferences",
-          title: 'Stylometric Profiling and Speaker Classification in Formula 1 Press Conferences',
-          description: "Investigates how Formula 1 drivers differ in communication style and whether language alone can reliably identify individual speakers",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-loan-default-classification-sba-loans",
