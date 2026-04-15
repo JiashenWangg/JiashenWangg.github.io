@@ -20,6 +20,20 @@ This project investigates linguistic patterns in official FIA Formula 1 press-co
     Example picutre of FIA Formula 1 press-conference, from Formula 1 News - 2024 Monaco GP Post-Race Press Conference
 </div>
 
+## LLM Application
+Building on the core analysis of linguistic patterns and speaker classification, I developed an end-to-end NLP application that operationalizes these insights into an interactive tool. The system analyzes Formula 1 press conference transcripts and predicts whether the speaker is Max Verstappen using a stylometric classification model. The workflow begins with collecting and preprocessing unstructured text data, followed by feature extraction using linguistic signals such as part-of-speech distributions, keyword indicators, and pronoun usage. A trained LASSO logistic regression model then produces a probabilistic prediction based on these features.
+
+To enhance interpretability, I integrated a generative AI layer using an LLM, which translates structured model outputs into clear, natural-language explanations grounded in the underlying linguistic patterns. The system is deployed through a lightweight interface that allows users to input custom text and receive both predictions and explanations in real time. The screenshot below shows the final user interface and example output of the application.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/f1_llm.jpg" title="LLM Application Demo" class="img-fluid rounded z-depth-1" style="height:200px;"%}
+    </div>
+</div>
+<div class="caption">
+    Application interface displaying transcript input, prediction results, and LLM explanation
+</div>
+
 ## Corpus and Data Description
 
 The dataset consists of official FIA Formula 1 press-conference transcripts sourced from Formula1.com, covering four seasons (2022–2025). Each document corresponds to a single driver’s responses within a press conference and is filtered to include only transcripts with at least 200 tokens to ensure sufficient linguistic content.
